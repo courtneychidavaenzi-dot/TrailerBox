@@ -6,7 +6,7 @@ Debounced search for performance optimization
 React Router navigation
 YouTube embeds for trailer playback
 Responsive design- works on mobile & desktop
-#Tech Stack
+# Tech Stack
 React SPA
 TMDB API
 React Router
