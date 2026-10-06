@@ -1,0 +1,6 @@
+CREATE TABLE watchlists (
+id INT AUTO_INCREMENT PRIMARY KEY,
+user_id INT,
+movie_id INT,
+created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
